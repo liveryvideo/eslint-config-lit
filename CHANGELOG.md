@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/liveryvideo/biome-lit/compare/v2.2.5...v2.3.0) (2026-01-27)
+
+
+### Features
+
+* upgrade eslint-plugin-perfectionist to v5.4.0, etc ([7cf5ca5](https://github.com/liveryvideo/biome-lit/commit/7cf5ca58a543d4c09aaf73d2e8e723cd2c028e47))
+
 ## [2.2.5](https://github.com/liveryvideo/biome-lit/compare/v2.2.4...v2.2.5) (2025-12-22)
 
 
